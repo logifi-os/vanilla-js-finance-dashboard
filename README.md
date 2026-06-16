@@ -16,7 +16,7 @@ This open-source repository contains the visual UI shell. If you want to skip we
 
 Want all 5 premium backend engines fully documented, pre-packaged, and ready to drop into your layout? Instead of buying individual modules, grab the complete core architectural bundle.
 
-🔥 **[Download the Logifi OS Core Bundle on Gumroad](PASTE_YOUR_NEW_GUMROAD_BUNDLE_LINK_HERE)**
+🔥 **[Download the Logifi OS Core Bundle on Gumroad](https://logifios.gumroad.com/l/kgxca)**
 
 *Includes both Personal and Commercial/Freelancer licensing options.*
 
