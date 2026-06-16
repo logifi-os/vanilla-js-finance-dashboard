@@ -12,6 +12,16 @@ A clean, responsive, framework-agnostic dashboard boilerplate built with pure HT
 ## 🛒 Upgrade to the Premium Backend Engines
 This open-source repository contains the visual UI shell. If you want to skip weeks of engineering and drop plug-and-play, production-ready backend modules into this layout, grab my standalone kits below:
 
+### 🎁 Save 80% with the All-In-One Core Bundle
+
+Want all 5 premium backend engines fully documented, pre-packaged, and ready to drop into your layout? Instead of buying individual modules, grab the complete core architectural bundle.
+
+🔥 **[Download the Logifi OS Core Bundle on Gumroad](PASTE_YOUR_NEW_GUMROAD_BUNDLE_LINK_HERE)**
+
+*Includes both Personal and Commercial/Freelancer licensing options.*
+
+---
+
 * 🔐 **[Zero-Dependency AES-GCM Crypto Engine](https://logifios.gumroad.com/l/xblhkw)** - Full military-grade 256-bit browser encryption.
 * 📊 **[Smart CSV Bank Statement Parser](https://logifios.gumroad.com/l/hnaufk)** - Intelligent column auto-detection and categorizer.
 * 📈 **[HMRC UK Tax & Payroll Engine](https://logifios.gumroad.com/l/xnwkwz)** - Dynamic calculation models for accurate tax projections.
